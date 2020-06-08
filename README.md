@@ -23,6 +23,11 @@ run `mvn test`
 
 ###### overview-features.html
 path: target/cucumber-report/advanced-reports/cucumber-html-reports/overview-features.html
+<img width="955" alt="Capture" src="https://user-images.githubusercontent.com/16276648/84014950-bda43580-a998-11ea-867b-d48b5e585204.PNG">
+
+
+
+
 
 
 

@@ -1,8 +1,8 @@
 # PropineTest
 
 ##### Overview
---------------------------
 You can test the 'https://vast-dawn-73245.herokuapp.com/' UI through this repo.
+
 
 ##### Installation Instructions
 ###### Prerequisites:
